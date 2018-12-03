@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stanidesis/toastyplugin.git"
+    "url": "git+https://github.com/saltynarwhal/ToastyPlugin"
   },
   "keywords": [
     "Toast",
@@ -26,10 +26,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Stanley Idesis <stan.idesis@gmail.com>",
+  "author": "Jordan Strong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stanidesis/toastyplugin/issues"
+    "url": "https://github.com/saltynarwhal/ToastyPlugin"
   },
-  "homepage": "https://github.com/stanidesis/toastyplugin/"
+  "homepage": "https://github.com/saltynarwhal/ToastyPlugin"
 }
